@@ -1,0 +1,10 @@
+﻿{
+  "packages": {
+    "ModularCrm.OrderReporting": {
+      "path": "ModularCrm.OrderReporting/ModularCrm.OrderReporting.abppkg"
+    },
+    "ModularCrm.OrderReporting.Contracts": {
+      "path": "ModularCrm.OrderReporting.Contracts/ModularCrm.OrderReporting.Contracts.abppkg"
+    }
+  }
+}
